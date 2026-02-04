@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@14:*)",
+      "Bash(npm install:*)",
+      "Bash(npx prisma generate:*)",
+      "Bash(npx prisma db push:*)",
+      "Bash(npx tsx:*)",
+      "Bash(npx next build:*)",
+      "Bash(npx next start:*)",
+      "Bash(curl:*)",
+      "Bash(sqlite3:*)",
+      "Bash(ls:*)",
+      "Bash(unzip:*)",
+      "Bash(npx prisma db execute:*)",
+      "Bash(lsof:*)",
+      "Bash(xargs:*)",
+      "Bash(fuser:*)",
+      "Bash(ss:*)",
+      "Bash(netstat:*)",
+      "Bash(pkill:*)",
+      "Bash(kill:*)",
+      "Bash(npx ts-node:*)",
+      "Bash(echo:*)",
+      "Bash(npm ls:*)",
+      "Bash(npm info:*)"
+    ]
+  }
+}
